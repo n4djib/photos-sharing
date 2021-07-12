@@ -1,0 +1,13 @@
+npx create-react-app ig-frontend
+npx create-strapi-app ig-backend --quickstart
+
+=run strapi
+npm run develop
+
+=run React
+npm run start
+
+
+
+
+

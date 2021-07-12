@@ -1,0 +1,17 @@
+.App {
+  width: 400px;
+  margin: auto;
+}
+
+.Post {
+  margin: 10px auto;
+  padding: 12px 20px;
+  border: 1px solid rgb(185, 181, 181);
+  border-radius: 5px;
+}
+
+.Post__Image {
+  max-width: 250px;
+}
+
+
